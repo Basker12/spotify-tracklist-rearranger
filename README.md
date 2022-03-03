@@ -1,3 +1,3 @@
-#Spotify-Tracklist-Rearranger
+#React
 
-A React application using the Spotify API to grab a users selected playlist and randomize there tracklist.
+Getting started with React
